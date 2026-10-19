@@ -8,6 +8,8 @@ Expérience documentaire interactive sur la colère étudiante et sa transformat
 
 [Ouvrir la maquette Figma éditable](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9?node-id=2-10)
 
+![Aperçu de l’entrée HORS CADRE, fond papier et affiche rouge](design/hors-cadre-cover.png)
+
 Cinq écrans desktop (1440 × 900) et une entrée mobile (390 × 844). Le parcours desktop est relié par des interactions de navigation dans Figma.
 
 ## Intention
