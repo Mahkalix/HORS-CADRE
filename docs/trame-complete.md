@@ -5,6 +5,8 @@
 > **Document de travail pour faire avancer la maquette.** Le scénario décrit ci-dessous sépare le prototype existant des développements encore proposés.
 
 ## Les points d’entrée du projet
+- [Scénario V2 — référence actuelle](scenario-v2.md)
+- [Arbre Miro](https://miro.com/app/board/uXjVEX1iTNU=/)
 - [Notion — carnet de projet, personnages et trame](https://app.notion.com/p/3ff01efc2bc581b987c3e1056f5cfe65)
 - [Maquette Figma — écrans et composants](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9)
 - [Prototype — du loader à l’expérience](https://www.figma.com/proto/cuFSnI2KEsFVh3iOarpbw9?node-id=58-32596&starting-point-node-id=58%3A32596)
@@ -58,9 +60,9 @@ Le keffieh est ici un signe de solidarité choisi par le personnage. Il ne sert 
 
 **Un personnage principal jouable : Elias. Six personnages secondaires : Gabriel, Salim, Noé, Louve, Irène et Amandla.**
 
-Gabriel, Salim et Noé sont introduits d’abord, dans des échanges brefs et situés : confrontation, non-violence et organisation. Ces mots sont des repères d’écriture ; ils ne doivent pas apparaître comme trois classes à sélectionner ou trois réponses forcément prévisibles.
+Noé est le repère stable ; Gabriel et Salim sont des conversations optionnelles à Victor-Hugo. Le joueur peut aussi écouter seul le cortège.
 
-Louve, Irène et Amandla apparaissent ensuite à travers des événements précis : désaccord autour d’une action, première confrontation vécue, puis documentation et publication. L’ordre exact de leurs entrées reste à écrire. Ne pas transformer l’ouverture en six fiches de présentation successives.
+Louve est optionnelle dans suivre ; Irène apparaît dans aider ; Amandla est rencontrée uniquement si un regard extérieur est demandé dans filmer.
 
 Elias n’est pas un avatar vide ni une copie du joueur : il conserve un passé et des relations. Les liens préexistants avec les six secondaires restent à préciser avant de finaliser les dialogues.
 
@@ -78,26 +80,28 @@ Les biographies détaillées et les références visuelles restent dans les fich
 ### Continuité avec les écrans actuels
 Inès est le repère provisoire de l’ancienne maquette ; elle ne fait pas partie de cette nouvelle distribution. Les sections décrivant le prototype conservent son nom pour distinguer l’existant du scénario cible. Ses fonctions doivent être réparties par réécriture entre les six secondaires.
 
-## 4. Nouvelle trame cible — Elias / V1 verrouillée
-[Ouvrir le carnet Notion](https://app.notion.com/p/3ff01efc2bc5816aab85daafb1a46751)
-**Le récit de référence est désormais la sous-page Priorité 1.** Elle contient les scènes écrites, les dialogues fictifs, les conditions des branches, les conséquences et l’inventaire des ressources.
-- Elias, 21 ans, licence d’histoire, première manifestation ; Noé est un ami préexistant.
-- Le quotidien étudiant est montré dans le téléphone. Pas de chambre à explorer dans la V1.
-- Ouverture : Noé, Gabriel et Salim seulement, puis les revendications avant l’incident.
-- À Grenette : verre brisé hors champ et mouvement de foule, sans auteur établi.
-- Trois actions : suivre Noé ; sortir le téléphone ; s’arrêter pour aider.
-- Irène entre par la branche aider ; Louve et Amandla sont rencontrées au Jardin de Ville.
-- Les réponses « J’arrive ! » et « Restez ensemble » changent le point de rendez-vous et le dialogue. Elles ne sont proposées que si Elias est séparé de Noé.
-- Quatre conséquences : Le lien ; La présence ; Le fragment ; Le contexte, avant une restitution commune des revendications.
-- Seule la branche filmer donne accès au fichier d’Elias. L’enregistrement entier commence aussi après le bruit.
-- Verdun est retiré du parcours jouable V1, pas transformé en détour supplémentaire.
-- Les quatre dimensions restent indépendantes : solidarité, confiance institutionnelle, action directe, fidélité aux proches. Aucun score pacifiste/violent.
-**Photos :** inventaire accessible terminé ; aucune série du protagoniste explicitement identifiée et validée. La mise en scène V1 ne dépend pas de plusieurs vues du même visage. Le portrait et ses droits restent à obtenir avant production.
-**Validation documentaire :** trente combinaisons de motivation et de conséquence, huit invariants de cohérence vérifiés. Ce contrôle porte sur le scénario ; les écrans Figma n’ont pas encore été adaptés.
+## 4. Scénario de référence — Elias / V2
+[Carnet Notion](https://app.notion.com/p/3ff01efc2bc5816aab85daafb1a46751)
+[Arbre de choix dans Miro](https://miro.com/app/board/uXjVEX1iTNU=/)
+La page de récit existante a été mise à jour en V2 : elle remplace la V1 pour la prochaine maquette.
+- Elias est le protagoniste unique. Le quotidien apparaît dans son téléphone avant le départ.
+- Intro jouable : tram, trottinette électrique ou marche, puis Victor-Hugo. Même journée et mêmes informations essentielles.
+- Au premier lieu : chercher Noé ou écouter seul ; parler à Gabriel, à Salim ou rester avec Noé est un choix.
+- Après la rupture à Grenette : suivre, filmer ou aider.
+- Louve est une conversation optionnelle de la branche suivre ; Irène appartient à aider ; Amandla est rencontrée seulement si Elias demande un regard extérieur dans filmer.
+- Noé reste l’ami et le contact stable. Tous les secondaires ne sont pas obligés d’apparaître dans une partie.
+- Deux réponses du téléphone et une absence de réponse changent le rendez-vous et les dialogues, sans inventer une action passée.
+- Quatre conséquences : Le lien, La présence, Le fragment et Le contexte, puis les revendications.
+- Seule la branche filmer possède le fichier d’Elias ; aucune branche ne connaît l’origine du verre brisé.
+- Quatre dimensions indépendantes, aucun score moral.
+**Contrôle documentaire :** 612 combinaisons nominales et dix invariants ; un parcours avec Noé seul existe. Ces nombres décrivent la spécification, pas un jeu déjà développé.
+**Médias :** l’inventaire reste sans série du protagoniste explicitement validée. Les plans de transport sont des besoins de production.
 
-[Scénario V1 détaillé dans le dépôt](recit-v1.md)
+[Scénario V2 complet](scenario-v2.md) · [Source de l’arbre](arbre-v2.mmd)
 
-## 5. Trame du prototype antérieur — écrans à adapter
+## 5. Archive du prototype antérieur — non canonique
+
+La référence actuelle est le [scénario V2](scenario-v2.md). Les anciens textes avec Inès sont conservés ici uniquement pour retrouver les écrans à migrer ; Elias est le protagoniste de la cible.
 ### A — Le seuil : loader puis accueil
 **Ce que l’on vit :** avant même d’entrer dans la rue, des mots traversent l’écran : entendre, filmer, rester, choisir, logement, avenir, dignité, écouter.
 
@@ -209,29 +213,11 @@ Pause, sous-titres, transcription, son, mouvement réduit et reprise de scène d
 **Existant :** page pause et sources. Le bouton de reprise revient actuellement au basculement, indépendamment de l’écran d’origine.
 **À corriger :** reprendre à la scène et au moment réellement quittés.
 
-## 6. Carte des embranchements du prototype antérieur
-```mermaid
-flowchart TD
-  L["Loader"] --> A["Accueil"]
-  A --> P["Prologue : rejoindre Inès"]
-  P --> C["Le cortège"]
-  C -->|"Rester avec le cortège"| R["Retrouver Inès"]
-  C -->|"Filmer la scène"| B["Le basculement"]
-  C -->|"Ouvrir le message"| T["Téléphone"]
-  B -->|"Continuer à filmer"| M["Choix de publication"]
-  B -->|"Rejoindre Inès"| T
-  T --> E["Réponse envoyée ou position partagée"]
-  E --> J["Jardin de Ville"]
-  J --> R
-  R --> V["Fin : Les voix"]
-  M -->|"Publier les 12 secondes"| F["Fin : Le fragment"]
-  M -->|"Partager le plan complet"| V
-  F --> X["Bilan de parcours"]
-  V --> X
-  F -->|"Revenir au montage"| M
-```
-
-Ce schéma décrit le parcours principal ; la carte, la pause, les sources et certains raccourcis de navigation donnent aussi accès à d’autres écrans. Il ne représente pas encore un moteur narratif avec prérequis.
+## 6. Arbre de référence
+[Ouvrir le tableau Miro — HORS CADRE / Elias / V2](https://miro.com/app/board/uXjVEX1iTNU=/)
+Le diagramme va du choix du trajet au bilan et distingue les choix des conditions de progression. Son code Mermaid reste modifiable dans Miro.
+Les branches de personnages sont conditionnelles : Gabriel ou Salim à l’ouverture, Louve dans suivre, Irène dans aider, Amandla dans filmer si un regard extérieur est demandé. Un nœud de condition n’est pas un nouveau choix du joueur.
+L’ancien arbre avec Inès appartient à l’historique du prototype et ne décrit plus la cible.
 
 ## 7. Les écrans à ouvrir pendant la conception
 | Écran | Figma | Travail prioritaire |
@@ -291,21 +277,19 @@ Les messages d’Inès, les personnages, les commentaires, la diffusion de l’e
 - **Témoignages réels et vidéos :** objectif éditorial, pas contenu déjà intégré.
 
 ## 12. Ordre de travail pour la prochaine version
-### Priorité 1 — verrouiller le récit avant de multiplier les écrans
-[Ouvrir le carnet Notion](https://app.notion.com/p/3ff01efc2bc5816aab85daafb1a46751)
-- [x] Fixer Elias comme personnage principal et les six autres comme secondaires.
-- [x] Réécrire l’ouverture avec Gabriel, Salim et Noé seulement.
-- [x] Détailler les trois branches : suivre, filmer et aider.
-- [x] Prévoir les entrées progressives de Louve, Irène et Amandla.
-- [x] Définir les quatre dimensions narratives sans score pacifiste/violent.
-- [x] Inventorier les photographies accessibles : aucune série validée du protagoniste ; le corpus reste à obtenir pour la production.
-- [x] Choisir le quotidien étudiant dans le téléphone, sans chambre à explorer en V1.
-- [x] Définir la dispersion à Grenette et retirer Verdun du parcours jouable V1.
-- [x] Supprimer le raccourci cortège → retrouvailles ; la séparation précède toute recherche.
-- [x] Répartir les fonctions d’Inès et écrire les conséquences distinctes du lien, de l’aide et des deux publications.
-- [x] Définir les réponses du téléphone : attente à l’entrée ou rendez-vous avec le collectif, avec un retour par défaut sans réponse.
-**Critère de fin :** chaque choix possède une action, une destination et une conséquence cohérentes ; aucun écran cible ne suppose une action que le joueur n’a pas faite.
-**Résultat :** récit V1 documenté ; trente parcours nominaux et huit invariants vérifiés. La collecte des médias et l’adaptation du Figma ne sont pas déclarées terminées.
+### Priorité 1 — scénario V2 prêt pour maquette
+[Carnet Notion](https://app.notion.com/p/3ff01efc2bc5816aab85daafb1a46751)
+- [x] Elias protagoniste fixe, Noé ami préexistant, cinq autres secondaires conditionnels.
+- [x] Introduction tram / trottinette / marche écrite jusqu’à Victor-Hugo.
+- [x] Approche du cortège et conversations de Gabriel ou Salim optionnelles.
+- [x] Trois branches suivre / filmer / aider écrites jusqu’à leurs conséquences.
+- [x] Louve, Irène et Amandla intégrées à des événements conditionnels.
+- [x] Téléphone, carte, publication et retrouvailles soumis aux faits vécus.
+- [x] Quatre dimensions indépendantes sans score pacifiste/violent.
+- [x] Inventaire des ressources accessibles et liste des médias manquants.
+- [x] Arbre Miro créé et contrôles documentaires de cohérence effectués.
+**Critère :** action, destination et conséquence cohérentes ; pas de souvenir, de personne connue ou de fichier inventés.
+**Reste à réaliser :** adaptation complète de Figma, médias utilisables et développement. Le récit écrit n’est pas une preuve que ces réalisations sont terminées.
 
 ### Priorité 2 — construire une séquence complète et crédible
 - [ ] Détailler cortège → basculement → téléphone ou publication → conséquence.
