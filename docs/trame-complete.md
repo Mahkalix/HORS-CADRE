@@ -42,7 +42,7 @@ Le joueur incarne **Elias, 21 ans, étudiant en licence, à sa première manifes
 
 ## Elias, 21 ans — personnage principal
 
-**Étudiant en licence · Première manifestation.** La discipline de sa licence reste à définir.
+**Étudiant en licence d’histoire · Première manifestation.** Il travaille le week-end dans la restauration ; logement et emploi pèsent sur ses études. Décision d’écriture V1.
 
 Elias est politiquement sensible aux injustices, mais n’a jamais réellement participé à une mobilisation. Il porte un keffieh en signe de solidarité. Il rejoint le cortège pour défendre une cause qui lui tient à cœur, sans savoir ce qu’il va vivre.
 
@@ -78,51 +78,24 @@ Les biographies détaillées et les références visuelles restent dans les fich
 ### Continuité avec les écrans actuels
 Inès est le repère provisoire de l’ancienne maquette ; elle ne fait pas partie de cette nouvelle distribution. Les sections décrivant le prototype conservent son nom pour distinguer l’existant du scénario cible. Ses fonctions doivent être réparties par réécriture entre les six secondaires.
 
-## 4. Nouvelle trame cible — Elias
-Cette section porte la nouvelle direction du récit. Les sections suivantes décrivent le prototype antérieur, encore à adapter.
+## 4. Nouvelle trame cible — Elias / V1 verrouillée
+[Ouvrir le carnet Notion](https://app.notion.com/p/3ff01efc2bc5816aab85daafb1a46751)
+**Le récit de référence est désormais la sous-page Priorité 1.** Elle contient les scènes écrites, les dialogues fictifs, les conditions des branches, les conséquences et l’inventaire des ressources.
+- Elias, 21 ans, licence d’histoire, première manifestation ; Noé est un ami préexistant.
+- Le quotidien étudiant est montré dans le téléphone. Pas de chambre à explorer dans la V1.
+- Ouverture : Noé, Gabriel et Salim seulement, puis les revendications avant l’incident.
+- À Grenette : verre brisé hors champ et mouvement de foule, sans auteur établi.
+- Trois actions : suivre Noé ; sortir le téléphone ; s’arrêter pour aider.
+- Irène entre par la branche aider ; Louve et Amandla sont rencontrées au Jardin de Ville.
+- Les réponses « J’arrive ! » et « Restez ensemble » changent le point de rendez-vous et le dialogue. Elles ne sont proposées que si Elias est séparé de Noé.
+- Quatre conséquences : Le lien ; La présence ; Le fragment ; Le contexte, avant une restitution commune des revendications.
+- Seule la branche filmer donne accès au fichier d’Elias. L’enregistrement entier commence aussi après le bruit.
+- Verdun est retiré du parcours jouable V1, pas transformé en détour supplémentaire.
+- Les quatre dimensions restent indépendantes : solidarité, confiance institutionnelle, action directe, fidélité aux proches. Aucun score pacifiste/violent.
+**Photos :** inventaire accessible terminé ; aucune série du protagoniste explicitement identifiée et validée. La mise en scène V1 ne dépend pas de plusieurs vues du même visage. Le portrait et ses droits restent à obtenir avant production.
+**Validation documentaire :** trente combinaisons de motivation et de conséquence, huit invariants de cohérence vérifiés. Ce contrôle porte sur le scénario ; les écrans Figma n’ont pas encore été adaptés.
 
-### Acte 1 — Le rassemblement
-Elias arrive dans sa première manifestation à Grenoble. Slogans, conversations, ville et revendications précèdent l’incident. Il découvre Gabriel, Salim et Noé par des actions et des échanges, pas par une sélection de profils idéologiques.
-
-**Voix intérieure proposée :** « Je pensais simplement venir manifester. »
-
-### Acte 2 — La rencontre et la motivation
-Un manifestant demande à Elias pourquoi il est venu. Le joueur formule une motivation concrète — cause défendue, personne accompagnée, injustice vécue — sans choisir « pacifiste », « radical » ou « militant ». Les options exactes de dialogue restent à écrire une fois le passé d’Elias défini.
-
-La réponse peut modifier la relation ou la conversation suivante, sans déterminer toute la trajectoire.
-
-### Acte 3 — La rupture
-Un bruit de verre brisé interrompt le cortège. Des personnes commencent à courir. Elias ne sait pas exactement ce qui s’est passé.
-
-**Premier vrai choix d’action :**
-- **Suivre le groupe** : rester avec ses proches, avec le risque de manquer des informations.
-- **Documenter l’incident** : conserver une trace partielle, avec le risque de se séparer du groupe.
-- **Tenter d’aider quelqu’un** : agir auprès d’une personne, avec le risque de perdre le fil de la scène.
-
-Ces coûts sont des hypothèses d’écriture à préciser, pas des conséquences déjà simulées dans Figma. Un bruit ou une coupe ne suffit pas à établir qui a commis un acte. Si l’incident est reconstitué, son statut fictif doit être clair.
-
-### Acte 4 — Des rencontres et informations différentes
-Le joueur constate les effets de son action : une personne retrouvée, une information manquée, un témoignage entendu ou un plan incomplet. Téléphone et carte servent à poursuivre un objectif situé.
-
-Louve, Irène et Amandla entrent par des événements précis. Elles ne forment pas un deuxième écran obligatoire de présentation. Gabriel et Louve conservent des trajectoires distinctes, tout comme Salim et Irène.
-
-### Acte 5 — Montrer, partager ou préserver le contexte
-Le débat sur les images se nourrit de ce qu’Elias a réellement vu et filmé. Amandla peut faire entendre les enjeux de la documentation, sans livrer la réponse attendue.
-
-La branche « filmer » peut rejoindre le choix de montage existant. Les branches « suivre » et « aider » ne doivent pas donner miraculeusement accès au même enregistrement : prévoir une autre source explicitement attribuée ou une conséquence différente.
-
-### Acte 6 — Des conséquences, puis les revendications
-Le récit montre ce qui a été préservé ou perdu : relation, information, possibilité d’agir, contexte d’une image. Il redonne ensuite place aux revendications.
-
-Les fins « Le fragment » et « Les voix » sont des supports existants à retravailler ; elles ne constituent pas encore un bilan suffisant des trois nouvelles branches. Éviter une fin qui classe simplement Elias comme violent ou pacifiste.
-
-### Acte 7 — Le bilan de parcours
-L’arbre distingue actions, rencontres et informations obtenues. Il révèle ce qui est resté hors du regard d’Elias et permet de rejouer une étape.
-
-**Dimensions indépendantes :** solidarité, confiance envers les institutions, rapport à l’action directe et fidélité aux proches. Ne pas les fusionner en un score moral. Ne pas déduire une position définitive d’un seul choix.
-
-### Photographies à inventorier
-Le nombre de vues du même homme au keffieh n’est pas connu. Il faut le renseigner avant de choisir une mise en scène dépendante de ses expressions ou de ses positions. Les images de référence de rassemblement, de rencontre et de confrontation ne sont pas des plans validés de la même histoire.
+[Scénario V1 détaillé dans le dépôt](recit-v1.md)
 
 ## 5. Trame du prototype antérieur — écrans à adapter
 ### A — Le seuil : loader puis accueil
@@ -319,18 +292,20 @@ Les messages d’Inès, les personnages, les commentaires, la diffusion de l’e
 
 ## 12. Ordre de travail pour la prochaine version
 ### Priorité 1 — verrouiller le récit avant de multiplier les écrans
+[Ouvrir le carnet Notion](https://app.notion.com/p/3ff01efc2bc5816aab85daafb1a46751)
 - [x] Fixer Elias comme personnage principal et les six autres comme secondaires.
-- [ ] Réécrire l’ouverture avec Gabriel, Salim et Noé seulement.
-- [ ] Détailler les trois branches : suivre, filmer et aider.
-- [ ] Prévoir les entrées progressives de Louve, Irène et Amandla.
-- [ ] Définir les quatre dimensions narratives sans score pacifiste/violent.
-- [ ] Inventorier les photographies disponibles du même protagoniste.
-- [ ] Choisir si le quotidien étudiant est montré avant la rue ou dans le téléphone.
-- [ ] Définir le déclencheur de la dispersion et le rôle exact de Verdun.
-- [ ] Corriger le raccourci cortège → retrouvailles.
-- [ ] Écrire une conséquence propre à la branche Inès et une conséquence propre au plan complet.
-- [ ] Définir précisément ce que changent les deux réponses du téléphone.
-**Critère de fin :** chaque choix possède une action, une destination et une conséquence cohérentes ; aucun écran ne suppose une action que le joueur n’a pas faite.
+- [x] Réécrire l’ouverture avec Gabriel, Salim et Noé seulement.
+- [x] Détailler les trois branches : suivre, filmer et aider.
+- [x] Prévoir les entrées progressives de Louve, Irène et Amandla.
+- [x] Définir les quatre dimensions narratives sans score pacifiste/violent.
+- [x] Inventorier les photographies accessibles : aucune série validée du protagoniste ; le corpus reste à obtenir pour la production.
+- [x] Choisir le quotidien étudiant dans le téléphone, sans chambre à explorer en V1.
+- [x] Définir la dispersion à Grenette et retirer Verdun du parcours jouable V1.
+- [x] Supprimer le raccourci cortège → retrouvailles ; la séparation précède toute recherche.
+- [x] Répartir les fonctions d’Inès et écrire les conséquences distinctes du lien, de l’aide et des deux publications.
+- [x] Définir les réponses du téléphone : attente à l’entrée ou rendez-vous avec le collectif, avec un retour par défaut sans réponse.
+**Critère de fin :** chaque choix possède une action, une destination et une conséquence cohérentes ; aucun écran cible ne suppose une action que le joueur n’a pas faite.
+**Résultat :** récit V1 documenté ; trente parcours nominaux et huit invariants vérifiés. La collecte des médias et l’adaptation du Figma ne sont pas déclarées terminées.
 
 ### Priorité 2 — construire une séquence complète et crédible
 - [ ] Détailler cortège → basculement → téléphone ou publication → conséquence.
