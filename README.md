@@ -6,12 +6,14 @@ Fiction documentaire interactive située à Grenoble. Le joueur incarne Elias, 2
 
 ## Documents de référence
 
+- [Notion — Elias, personnages et trame complète](https://app.notion.com/p/3ff01efc2bc581b987c3e1056f5cfe65)
+
 - [Trame complète de A à Z et prochaines étapes de maquette](docs/trame-complete.md)
 - [Elias et les six personnages secondaires](docs/personnages.md)
 - [Figma — maquette et composants](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9)
 - [Prototype — loader et expérience](https://www.figma.com/proto/cuFSnI2KEsFVh3iOarpbw9?node-id=58-32596&starting-point-node-id=58%3A32596)
 
-La trame distingue le parcours actuellement maquetté, les intentions initiales et les décisions encore ouvertes. Une page Notion a été préparée, mais sa création est bloquée par la limite de blocs gratuits de l’espace ; aucun lien Notion n’est disponible pour l’instant.
+La trame distingue le parcours actuellement maquetté, les intentions initiales et les décisions encore ouvertes. Le carnet Notion rassemble Elias, les six personnages secondaires, le scénario cible et les travaux à mener. La page a été créée en privé ; son accès dépend des permissions Notion. Les liens entre les outils ne constituent pas une synchronisation automatique.
 
 ## Nouvelle direction narrative
 
