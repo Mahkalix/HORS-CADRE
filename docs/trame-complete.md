@@ -18,7 +18,7 @@
 ## 1. Le projet en une minute
 **Question centrale :** comment une colère étudiante réelle devient-elle du bruit médiatique avant même d’être entendue ?
 
-Le joueur ne dirige pas la manifestation. Il incarne un regard situé, avec un téléphone et un entourage étudiant. La nouvelle distribution comprend Gabriel, Salim, Noé, Louve, Irène et Amandla ; le prototype antérieur utilise encore Inès comme interlocutrice provisoire. Il ne peut pas simultanément écouter tout le monde, filmer toute la scène et rester avec son groupe. Ses décisions changent ce qu’il voit, les relations qu’il préserve et le récit qu’il peut ensuite transmettre.
+Le joueur incarne **Elias, 21 ans, étudiant en licence, à sa première manifestation**. Il porte un keffieh en signe de solidarité, sans que ce vêtement détermine son origine, sa religion ou une idéologie prédéfinie. Il ne peut pas simultanément écouter tout le monde, filmer toute la scène et rester avec son groupe. Ses décisions construisent sa manière d’agir et changent ses relations, les informations accessibles et les scènes suivantes.
 
 **Promesse :** une expérience immersive à choix cliquables, inspirée de la mise en scène des jeux narratifs et de leur arbre de ramifications, avec des vidéos réelles contextualisées à terme. La cible actuelle affichée sur l’accueil est d’environ dix minutes ; la durée devra être vérifiée avec les médias retenus.
 
@@ -35,53 +35,95 @@ Le joueur ne dirige pas la manifestation. Il incarne un regard situé, avec un t
 
 **À retenir :** l’ancien README et les documents historiques du dépôt décrivaient une autre version. Ils ne suffisent pas pour connaître l’état actuel de la maquette.
 
-## 3. Les personnages et le point de vue
+## 3. Elias et les six personnages secondaires
 
-**Nouvelle distribution de référence : Gabriel, Salim, Noé, Louve, Irène et Amandla.**
+[Fiches complètes : Elias et les six personnages](personnages.md)
 
-[Fiches complètes des personnages](personnages.md)
+## Elias, 21 ans — personnage principal
 
-### Gabriel, 22 ans — le révolté
-Étudiant en histoire, issu d’une famille de classe moyenne. Il a longtemps cru au dialogue, mais considère aujourd’hui que les manifestations pacifiques ne suffisent plus. Il participe parfois aux dégradations.
+**Étudiant en licence · Première manifestation.** La discipline de sa licence reste à définir.
 
-**Conviction :** « Quand personne ne nous écoute, comment se faire entendre ? »
+Elias est politiquement sensible aux injustices, mais n’a jamais réellement participé à une mobilisation. Il porte un keffieh en signe de solidarité. Il rejoint le cortège pour défendre une cause qui lui tient à cœur, sans savoir ce qu’il va vivre.
 
-### Salim, 21 ans — le pacifiste
-Étudiant en droit, ayant grandi dans un quartier populaire. Il connaît les discriminations et les tensions avec les institutions, mais refuse la violence. Sa non-violence est un choix politique assumé.
+Son histoire et sa présence dans la rue existent avant les décisions du joueur. En revanche, sa façon de manifester, sa réaction à un incident et son rapport au fait de filmer se construisent au cours du récit. Il n’est pas présenté d’emblée comme pacifiste, radical ou militant.
 
-**Conviction :** « Notre colère est légitime. Ce qu’on en fait compte aussi. »
+Le keffieh est ici un signe de solidarité choisi par le personnage. Il ne sert pas à déduire son origine, sa religion ou ses convictions exactes. Les choix du joueur ne modifient pas rétroactivement ces caractéristiques.
 
-### Noé, 23 ans — l’organisateur
-Étudiant en sciences politiques, engagé dans un syndicat étudiant. Il organise les assemblées générales et les cortèges. Il sait que négocier peut apporter des victoires, mais aussi provoquer des compromis difficiles.
+**Phrase d’introduction proposée :** « Je pensais simplement venir manifester. »
 
-**Conviction :** « Une mobilisation sans organisation risque de s’épuiser. »
+[Référence visuelle fournie — keffieh, ambiance uniquement](https://images.openai.com/static-rsc-4/_aAJgwnubpItdRSGkswi8Rl-Vq-fbpplRWQuXM29NIbSneqozeUrxGz6KamnfpFzIQMHVvIugZ3aJbZpFSzZVFyhiHmaP3LzvrKijTiHwVtGIobOLJMgmR2I9k6OBJDDh9Ado5PoIWyQldC0EFmmV9iMlSp-DaAF-PdWJhOgY2o?purpose=inline)
 
-### Louve, 22 ans — la révoltée
-Étudiante en sociologie, issue d’un milieu favorisé. Elle s’est radicalisée politiquement au fil de ses études. Elle remet en question sa propre position sociale et accepte certaines formes d’action directe.
+## Distribution et rythme des rencontres
 
-**Conviction :** « Être neutre face à une injustice, c’est déjà faire un choix. »
+**Un personnage principal jouable : Elias. Six personnages secondaires : Gabriel, Salim, Noé, Louve, Irène et Amandla.**
 
-### Irène, 21 ans — la pacifiste
-Étudiante en psychologie, elle manifeste pour la première fois. Elle veut défendre ses droits, mais redoute les affrontements. Elle découvre progressivement que rester pacifique ne suffit pas toujours à éviter la confrontation.
+Gabriel, Salim et Noé sont introduits d’abord, dans des échanges brefs et situés : confrontation, non-violence et organisation. Ces mots sont des repères d’écriture ; ils ne doivent pas apparaître comme trois classes à sélectionner ou trois réponses forcément prévisibles.
 
-**Conviction :** « On peut être en colère sans vouloir blesser quelqu’un. »
+Louve, Irène et Amandla apparaissent ensuite à travers des événements précis : désaccord autour d’une action, première confrontation vécue, puis documentation et publication. L’ordre exact de leurs entrées reste à écrire. Ne pas transformer l’ouverture en six fiches de présentation successives.
 
-### Amandla, 23 ans — la militante
-Étudiante en communication, engagée dans un collectif étudiant. Elle documente les manifestations et fait circuler les témoignages. Elle se demande parfois si filmer une injustice aide réellement les personnes concernées.
+Elias n’est pas un avatar vide ni une copie du joueur : il conserve un passé et des relations. Les liens préexistants avec les six secondaires restent à préciser avant de finaliser les dialogues.
 
-**Conviction :** « Ce qu’on ne montre pas risque d’être oublié. »
 
-### Point de vue et adaptation du prototype
-Le personnage jouable et les relations entre les six personnes restent à choisir. Aucun de ces rôles n’est automatiquement déclaré jouable.
+### Les six personnages secondaires
+- **Gabriel, 22 ans, histoire — le révolté :** ancien partisan du dialogue, il considère les manifestations pacifiques insuffisantes et participe parfois à des dégradations. « Quand personne ne nous écoute, comment se faire entendre ? »
+- **Salim, 21 ans, droit — le pacifiste :** sa non-violence est un choix politique, nourri par l’expérience des discriminations et des tensions institutionnelles. « Notre colère est légitime. Ce qu’on en fait compte aussi. »
+- **Noé, 23 ans, sciences politiques — l’organisateur :** engagé dans un syndicat étudiant, il organise les assemblées et les cortèges tout en affrontant les compromis de la négociation. « Une mobilisation sans organisation risque de s’épuiser. »
+- **Louve, 22 ans, sociologie — la révoltée :** issue d’un milieu favorisé, elle questionne sa position sociale et accepte certaines formes d’action directe. « Être neutre face à une injustice, c’est déjà faire un choix. »
+- **Irène, 21 ans, psychologie — la pacifiste :** elle manifeste pour la première fois et découvre que rester pacifique ne protège pas de toute confrontation. « On peut être en colère sans vouloir blesser quelqu’un. »
+- **Amandla, 23 ans, communication — la militante :** elle documente les manifestations et questionne l’utilité réelle du fait de filmer pour les personnes concernées. « Ce qu’on ne montre pas risque d’être oublié. »
 
-**Inès est l’interlocutrice provisoire de la maquette antérieure.** Les sections suivantes décrivent encore les écrans existants avec ce prénom afin de rester fidèles au prototype. Pour la prochaine version, répartir ses messages, son rôle affectif et le rendez-vous entre les six personnages ; ne pas ajouter par défaut un septième personnage.
+Les biographies détaillées et les références visuelles restent dans les fiches. Les portraits sont des références d’ambiance, pas un casting ni des représentations définitives.
 
-**Portraits :** références visuelles d’ambiance, non définitives. Ils n’attribuent pas les convictions ou actes fictifs aux personnes photographiées. Les liens sont conservés dans les fiches ; droits et identités n’ont pas été vérifiés.
+### Continuité avec les écrans actuels
+Inès est le repère provisoire de l’ancienne maquette ; elle ne fait pas partie de cette nouvelle distribution. Les sections décrivant le prototype conservent son nom pour distinguer l’existant du scénario cible. Ses fonctions doivent être réparties par réécriture entre les six secondaires.
 
-### Intégration proposée
-Noé peut porter l’organisation et les rendez-vous ; Amandla, la documentation et le montage ; Gabriel et Louve, deux trajectoires distinctes de rupture ; Salim et Irène, deux rapports différents à la non-violence. Cette répartition est une proposition de scénario à valider, pas une description des écrans déjà réalisés.
+## 4. Nouvelle trame cible — Elias
+Cette section porte la nouvelle direction du récit. Les sections suivantes décrivent le prototype antérieur, encore à adapter.
 
-## 4. La trame de A à Z
+### Acte 1 — Le rassemblement
+Elias arrive dans sa première manifestation à Grenoble. Slogans, conversations, ville et revendications précèdent l’incident. Il découvre Gabriel, Salim et Noé par des actions et des échanges, pas par une sélection de profils idéologiques.
+
+**Voix intérieure proposée :** « Je pensais simplement venir manifester. »
+
+### Acte 2 — La rencontre et la motivation
+Un manifestant demande à Elias pourquoi il est venu. Le joueur formule une motivation concrète — cause défendue, personne accompagnée, injustice vécue — sans choisir « pacifiste », « radical » ou « militant ». Les options exactes de dialogue restent à écrire une fois le passé d’Elias défini.
+
+La réponse peut modifier la relation ou la conversation suivante, sans déterminer toute la trajectoire.
+
+### Acte 3 — La rupture
+Un bruit de verre brisé interrompt le cortège. Des personnes commencent à courir. Elias ne sait pas exactement ce qui s’est passé.
+
+**Premier vrai choix d’action :**
+- **Suivre le groupe** : rester avec ses proches, avec le risque de manquer des informations.
+- **Documenter l’incident** : conserver une trace partielle, avec le risque de se séparer du groupe.
+- **Tenter d’aider quelqu’un** : agir auprès d’une personne, avec le risque de perdre le fil de la scène.
+
+Ces coûts sont des hypothèses d’écriture à préciser, pas des conséquences déjà simulées dans Figma. Un bruit ou une coupe ne suffit pas à établir qui a commis un acte. Si l’incident est reconstitué, son statut fictif doit être clair.
+
+### Acte 4 — Des rencontres et informations différentes
+Le joueur constate les effets de son action : une personne retrouvée, une information manquée, un témoignage entendu ou un plan incomplet. Téléphone et carte servent à poursuivre un objectif situé.
+
+Louve, Irène et Amandla entrent par des événements précis. Elles ne forment pas un deuxième écran obligatoire de présentation. Gabriel et Louve conservent des trajectoires distinctes, tout comme Salim et Irène.
+
+### Acte 5 — Montrer, partager ou préserver le contexte
+Le débat sur les images se nourrit de ce qu’Elias a réellement vu et filmé. Amandla peut faire entendre les enjeux de la documentation, sans livrer la réponse attendue.
+
+La branche « filmer » peut rejoindre le choix de montage existant. Les branches « suivre » et « aider » ne doivent pas donner miraculeusement accès au même enregistrement : prévoir une autre source explicitement attribuée ou une conséquence différente.
+
+### Acte 6 — Des conséquences, puis les revendications
+Le récit montre ce qui a été préservé ou perdu : relation, information, possibilité d’agir, contexte d’une image. Il redonne ensuite place aux revendications.
+
+Les fins « Le fragment » et « Les voix » sont des supports existants à retravailler ; elles ne constituent pas encore un bilan suffisant des trois nouvelles branches. Éviter une fin qui classe simplement Elias comme violent ou pacifiste.
+
+### Acte 7 — Le bilan de parcours
+L’arbre distingue actions, rencontres et informations obtenues. Il révèle ce qui est resté hors du regard d’Elias et permet de rejouer une étape.
+
+**Dimensions indépendantes :** solidarité, confiance envers les institutions, rapport à l’action directe et fidélité aux proches. Ne pas les fusionner en un score moral. Ne pas déduire une position définitive d’un seul choix.
+
+### Photographies à inventorier
+Le nombre de vues du même homme au keffieh n’est pas connu. Il faut le renseigner avant de choisir une mise en scène dépendante de ses expressions ou de ses positions. Les images de référence de rassemblement, de rencontre et de confrontation ne sont pas des plans validés de la même histoire.
+
+## 5. Trame du prototype antérieur — écrans à adapter
 ### A — Le seuil : loader puis accueil
 **Ce que l’on vit :** avant même d’entrer dans la rue, des mots traversent l’écran : entendre, filmer, rester, choisir, logement, avenir, dignité, écouter.
 
@@ -193,7 +235,7 @@ Pause, sous-titres, transcription, son, mouvement réduit et reprise de scène d
 **Existant :** page pause et sources. Le bouton de reprise revient actuellement au basculement, indépendamment de l’écran d’origine.
 **À corriger :** reprendre à la scène et au moment réellement quittés.
 
-## 5. Carte des embranchements existants
+## 6. Carte des embranchements du prototype antérieur
 ```mermaid
 flowchart TD
   L["Loader"] --> A["Accueil"]
@@ -217,7 +259,7 @@ flowchart TD
 
 Ce schéma décrit le parcours principal ; la carte, la pause, les sources et certains raccourcis de navigation donnent aussi accès à d’autres écrans. Il ne représente pas encore un moteur narratif avec prérequis.
 
-## 6. Les écrans à ouvrir pendant la conception
+## 7. Les écrans à ouvrir pendant la conception
 | Écran | Figma | Travail prioritaire |
 | --- | --- | --- |
 | Loader | [Ouvrir](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9?node-id=58-32596) | Distinguer animation d’attente et véritable chargement ; mouvement réduit. |
@@ -234,7 +276,7 @@ Ce schéma décrit le parcours principal ; la carte, la pause, les sources et ce
 | Pause et sources | [Ouvrir](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9?node-id=8-602) | Reprise contextuelle et crédits par média. |
 | Mobile | [Ouvrir](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9?node-id=8-661) | Décliner tout le parcours et supprimer le minuteur résiduel. |
 
-## 7. Direction artistique à conserver
+## 8. Direction artistique à conserver
 - **Fonds : beige papier** — token actuel #DEDCD1.
 - **Écriture : brun profond** — #29231F.
 - **Accent : bleu** — #4760FF, pour actions et chemin suivi.
@@ -245,7 +287,7 @@ Ce schéma décrit le parcours principal ; la carte, la pause, les sources et ce
 - **Interface :** peu d’éléments simultanés ; priorité à la scène, au message ou à la décision du moment.
 - **Structure :** Auto Layout pour les contenus, positions absolues pour les superpositions, la carte et les décors.
 
-## 8. Composants nécessaires pour continuer
+## 9. Composants nécessaires pour continuer
 **Existants :** boutons, choix narratifs avec états, nœuds de parcours à crochets, navigation film et console, rail, cartes de lieux, repères, téléphone, bulles reçues/envoyées, réponses rapides, position partagée, saisie en cours, confirmation envoyée et variantes du logo.
 
 **À compléter ou vérifier :**
@@ -256,7 +298,7 @@ Ce schéma décrit le parcours principal ; la carte, la pause, les sources et ce
 - Bilan : étape suivie, actuelle, possible, inconnue et fin ; vignette et connexion réutilisables.
 - Restitution des revendications : citation sourcée, texte fictif ou parole documentaire clairement distingués.
 
-## 9. Médias et statut documentaire
+## 10. Médias et statut documentaire
 Les photographies déjà utilisées sont des archives illustratives, pas les événements du scénario :
 - [Grenoble, 7 septembre 2024 — Haldu, CC0](https://commons.wikimedia.org/wiki/File:Manifestation_du_7_septembre_2024_%C3%A0_Grenoble_(1).jpg)
 - [Grenoble, 15 mars 2023 — David Monniaux, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Grenoble_manif_IMG_3612.jpg)
@@ -266,7 +308,7 @@ Pour chaque future vidéo, consigner la source, l’auteur, la date, le lieu, le
 
 Les messages d’Inès, les personnages, les commentaires, la diffusion de l’extrait et les conséquences sont fictifs. Les faits d’une archive ne sont pas modifiés par le choix du joueur.
 
-## 10. Les anciennes idées à décider, sans les perdre
+## 11. Les anciennes idées à décider, sans les perdre
 - **Chambre étudiante :** contextualiser le quotidien ; choisir si elle appartient au parcours court.
 - **Trois regards simultanés — rue, réseaux, médias :** possible dispositif du dernier chapitre, pas trois colonnes permanentes dès le départ.
 - **Faire taire :** couper le bruit et révéler les demandes ; possible interaction de fin, encore absente du prototype.
@@ -274,8 +316,14 @@ Les messages d’Inès, les personnages, les commentaires, la diffusion de l’e
 - **BRUIT DE FOND :** ancien nom envisagé ; le nom de travail retenu est HORS CADRE.
 - **Témoignages réels et vidéos :** objectif éditorial, pas contenu déjà intégré.
 
-## 11. Ordre de travail pour la prochaine version
+## 12. Ordre de travail pour la prochaine version
 ### Priorité 1 — verrouiller le récit avant de multiplier les écrans
+- [x] Fixer Elias comme personnage principal et les six autres comme secondaires.
+- [ ] Réécrire l’ouverture avec Gabriel, Salim et Noé seulement.
+- [ ] Détailler les trois branches : suivre, filmer et aider.
+- [ ] Prévoir les entrées progressives de Louve, Irène et Amandla.
+- [ ] Définir les quatre dimensions narratives sans score pacifiste/violent.
+- [ ] Inventorier les photographies disponibles du même protagoniste.
 - [ ] Choisir si le quotidien étudiant est montré avant la rue ou dans le téléphone.
 - [ ] Définir le déclencheur de la dispersion et le rôle exact de Verdun.
 - [ ] Corriger le raccourci cortège → retrouvailles.
@@ -305,7 +353,7 @@ Les messages d’Inès, les personnages, les commentaires, la diffusion de l’e
 - [ ] Relier une version de maquette validée à une version de documentation et, ensuite, à une version du code.
 **Critère de fin :** les mêmes règles de mise en page, de couleur et d’interaction se retrouvent sur tous les écrans.
 
-## 12. Comment utiliser cette page ensemble
+## 13. Comment utiliser cette page ensemble
 Pour chaque modification : noter l’écran concerné, le problème constaté, la décision retenue, le lien Figma et ce qui permet de considérer le point comme terminé. Ne pas cocher une tâche de développement parce que son écran existe dans Figma.
 
 **Prochaine séance recommandée :** travailler le cortège et la dispersion. C’est là que le projet doit faire ressentir une colère humaine avant de demander au joueur de choisir son cadrage.
