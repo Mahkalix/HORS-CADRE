@@ -2,40 +2,47 @@
 
 > Ce n’est pas du bruit. C’est une génération qui parle.
 
-Expérience documentaire interactive sur la colère étudiante et sa transformation en bruit médiatique avant même d’être entendue.
+Fiction documentaire interactive située à Grenoble : vivre une manifestation à hauteur d’étudiant, choisir où regarder, qui rejoindre et ce que l’on partage.
 
-## Maquette
+## Documents de référence
 
-[Ouvrir la maquette Figma éditable](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9?node-id=2-10)
+- [Trame complète de A à Z et prochaines étapes de maquette](docs/trame-complete.md)
+- [Figma — maquette et composants](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9)
+- [Prototype — loader et expérience](https://www.figma.com/proto/cuFSnI2KEsFVh3iOarpbw9?node-id=58-32596&starting-point-node-id=58%3A32596)
 
-![Aperçu de l’entrée HORS CADRE, fond papier et affiche rouge](design/hors-cadre-cover.png)
+La trame distingue le parcours actuellement maquetté, les intentions initiales et les décisions encore ouvertes. Une page Notion a été préparée, mais sa création est bloquée par la limite de blocs gratuits de l’espace ; aucun lien Notion n’est disponible pour l’instant.
 
-Cinq écrans desktop (1440 × 900) et une entrée mobile (390 × 844). Le parcours desktop est relié par des interactions de navigation dans Figma.
+## Parcours actuel
 
-## Intention
+Loader → accueil → prologue avec Inès → cortège → filmer ou rejoindre le groupe.
 
-Partir des réalités du quotidien — logement, alimentation, études, travail — pour rejoindre une mobilisation. Montrer ensuite comment les témoignages et les revendications se fragmentent entre la rue, les réseaux et les médias. L’expérience se termine dans le silence, face aux demandes initiales.
+- **Rejoindre Inès** : téléphone, position partagée, Jardin de Ville, retrouvailles.
+- **Continuer à filmer** : comparer un extrait de douze secondes et un plan long, puis choisir ce que l’on partage.
+- **Deux fins maquettées** : Le fragment et Les voix.
+- **Après le film** : arbre de parcours pour explorer les autres possibilités, pause et sources.
 
-## Parcours
+La carte relie Victor-Hugo, Grenette, le Jardin de Ville et Verdun dans un récit fictif. Les raccourcis et certaines convergences doivent encore être précisés : la documentation liste les incohérences à résoudre avant d’étendre les écrans.
 
-1. **Entrée** : HORS CADRE et invitation à écouter.
-2. **Chambre** : frigo presque vide, hausse de loyer, emploi du temps saturé, message de mobilisation.
-3. **Rue** : des histoires individuelles derrière la colère collective.
-4. **Trois récits** : paroles complètes, extraits viraux et résumé institutionnel.
-5. **Silence** : « Après tout ce bruit, qu’avez-vous réellement entendu ? »
+## Statut
 
-## Interactions prévues
+**En conception. L’expérience web n’est pas encore développée.**
 
-- **Faire taire** : effacer la foule et interrompre les sons pour révéler les revendications.
-- **Écouter** : laisser le temps à une parole complète, avec une transcription accessible.
-- Navigation clavier, lecture sans son, contrôle du volume et respect du mouvement réduit.
+Le Figma contient dix-neuf cadres d’écran, dont trois états du loader et un aperçu mobile. Il simule la navigation et le défilement du loader. Les photographies sont fixes ; les vidéos, le son, la sauvegarde et le calcul d’un arbre selon le parcours réel restent à développer.
 
 ## Direction artistique
 
-Noir encre, papier écru et rouge vif. Anton pour les titres, IBM Plex Mono pour les repères, Inter pour les textes. Affiches typographiques et contrastes éditoriaux. La première maquette utilise des compositions originales ; les photographies documentaires seront ajoutées après sélection et vérification des droits.
+Fond beige papier **#DEDCD1**, écriture brun profond **#29231F**, accent bleu **#4760FF**. Textes en Martian Mono Light ; Ash est la direction souhaitée pour les titres, encore à uniformiser. Logos vectoriels et variantes selon l’espace disponible. Les contenus de la maquette sont structurés en Auto Layout.
 
-## Statut et démarche éditoriale
+## Images et démarche éditoriale
 
-**En conception. Ce dépôt contient le cadrage du projet ; l’expérience web n’est pas encore développée.** Les scènes et paroles de la maquette sont fictives et explicitement indiquées comme telles. Aucun exemple n’est attribué à un média ou à une personne réelle. Les futurs événements et témoignages documentaires devront être sourcés, datés et distingués des reconstitutions, avec l’accord des personnes concernées.
+Personnages, messages, dialogues et conséquences sont fictifs. Les photographies illustrent le scénario ; elles ne prouvent pas les actions racontées.
 
-Voir [le parcours et les interactions](docs/parcours.md) et [la charte éditoriale](docs/charte-editoriale.md).
+- [Grenoble, 7 septembre 2024 — Haldu / CC0](https://commons.wikimedia.org/wiki/File:Manifestation_du_7_septembre_2024_%C3%A0_Grenoble_(1).jpg)
+- [Grenoble, 15 mars 2023 — David Monniaux / CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Grenoble_manif_IMG_3612.jpg)
+- [Carte : contributeurs OpenStreetMap / ODbL](https://www.openstreetmap.org/copyright)
+
+Pour chaque future vidéo : documenter auteur, date, lieu, contexte, source, droits et coupes. Le récit ne doit pas attribuer une violence ou une intention à partir d’un plan isolé.
+
+## Historique
+
+[Le premier parcours](docs/parcours.md) et [la charte éditoriale initiale](docs/charte-editoriale.md) sont conservés comme documents historiques. Certaines descriptions d’écran et mentions de médias y sont dépassées ; la [trame complète](docs/trame-complete.md) décrit l’état actuel et les travaux à mener.
