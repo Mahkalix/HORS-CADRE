@@ -18,13 +18,16 @@ Le keffieh est ici un signe de solidarité choisi par le personnage. Il ne sert 
 
 [Référence visuelle fournie — keffieh, ambiance uniquement](https://images.openai.com/static-rsc-4/_aAJgwnubpItdRSGkswi8Rl-Vq-fbpplRWQuXM29NIbSneqozeUrxGz6KamnfpFzIQMHVvIugZ3aJbZpFSzZVFyhiHmaP3LzvrKijTiHwVtGIobOLJMgmR2I9k6OBJDDh9Ado5PoIWyQldC0EFmmV9iMlSp-DaAF-PdWJhOgY2o?purpose=inline)
 
-## Distribution et rythme des rencontres
+## Distribution et rythme des rencontres — V2
+
+[Récit V2 de référence](scenario-v2.md) · [Arbre Miro](https://miro.com/app/board/uXjVEX1iTNU=/)
+
 
 **Un personnage principal jouable : Elias. Six personnages secondaires : Gabriel, Salim, Noé, Louve, Irène et Amandla.**
 
-Gabriel, Salim et Noé sont introduits d’abord, dans des échanges brefs et situés : confrontation, non-violence et organisation. Ces mots sont des repères d’écriture ; ils ne doivent pas apparaître comme trois classes à sélectionner ou trois réponses forcément prévisibles.
+Noé est le contact stable d’Elias. À Victor-Hugo, le joueur peut chercher Noé puis parler à Gabriel ou à Salim, rester avec Noé, ou écouter seul le cortège. Les cinq autres secondaires ne sont pas tous rencontrés dans chaque partie.
 
-Louve, Irène et Amandla apparaissent ensuite à travers des événements précis : désaccord autour d’une action, première confrontation vécue, puis documentation et publication. La V1 fixe Irène dans la branche aider, puis Louve et Amandla au Jardin de Ville. Ne pas transformer l’ouverture en six fiches de présentation successives.
+Louve est rencontrée si la discussion est choisie dans suivre ; Irène dans aider ; Amandla si un regard extérieur est demandé dans filmer. Leurs paroles ne sont pas attribuées au souvenir d’Elias si la rencontre n’a pas eu lieu.
 
 Elias n’est pas un avatar vide ni une copie du joueur : il conserve un passé et des relations. Noé est un ami depuis la première année sur le campus. Gabriel et Salim sont rencontrés au rassemblement. Irène est rencontrée dans la branche aider ; Louve et Amandla au regroupement. Le [récit V1](recit-v1.md) fixe les dialogues et les conditions.
 
@@ -92,17 +95,18 @@ Elias n’est pas un avatar vide ni une copie du joueur : il conserve un passé 
 
 Les portraits sont des références visuelles d’ambiance, pas des représentations définitives des personnages. Ils ne constituent pas un casting. Les noms, positions politiques et comportements des personnages fictifs ne sont pas attribués aux personnes photographiées. Les liens fournis sont conservés comme références ; leur identité, leur stabilité et leurs droits de réutilisation n’ont pas été vérifiés. Ne pas les traiter comme des médias validés pour le site.
 
-## Intégration dans la trame V1
+## Intégration dans la trame V2
 
-Le [récit V1 verrouillé](recit-v1.md) contient l'ouverture écrite et les conditions de chaque rencontre. Les scènes, personnages et dialogues sont fictifs.
+Les scènes sont détaillées dans le [récit V2](scenario-v2.md). Le trajet en tram, en trottinette ou à pied mène à Victor-Hugo sans prédéfinir une position politique.
 
-1. Noé, Gabriel et Salim sont les seuls secondaires introduits avant la rupture.
-2. Après le bruit hors champ, Elias suit Noé, filme ou s'arrête pour aider.
-3. Irène est rencontrée uniquement dans la branche aider.
-4. Louve entre au Jardin de Ville avec Gabriel ; son premier échange dépend de la branche.
-5. Amandla demande ce qu'Elias peut attester avant tout choix de montage.
-6. Noé assure le lien affectif et les rendez-vous ; les fonctions de l'ancienne Inès sont redistribuées.
-7. Seule la branche filmer donne accès au fichier d'Elias et à ses deux montages.
+- Noé : ami et repère stable ; rencontré au premier lieu si recherché, au plus tard au jardin.
+- Gabriel : conversation choisie au rassemblement ou discussion avec Louve dans suivre.
+- Salim : conversation choisie au rassemblement ou rencontre dans aider.
+- Louve : discussion choisie seulement dans suivre.
+- Irène : branche aider seulement.
+- Amandla : branche filmer puis demande de regard extérieur ; le visionnage seul reste possible.
+
+Une partie peut se dérouler avec Noé comme seul secondaire rencontré. Les autres branches ne sont pas des échecs à collectionner ; elles révèlent d’autres regards au rejeu.
 
 ## Dimensions narratives indépendantes
 
@@ -118,7 +122,7 @@ Ces dimensions peuvent se contredire. Elias peut être solidaire, méfiant enver
 
 La maquette et son ancien arbre utilisent encore **Inès** comme interlocutrice provisoire. Elle ne fait pas partie de la nouvelle distribution. Répartir ses fonctions affectives, ses messages et le rendez-vous entre les six personnages secondaires selon leurs relations avec Elias ; ne pas remplacer son prénom partout par un seul autre prénom sans réécrire la scène.
 
-Le choix « aider quelqu’un » et les conséquences propres à cette branche ne sont pas encore maquettés. Le personnage principal n’est pas encore décliné dans les écrans Figma.
+Une première passe Figma introduit Elias et une conséquence aider ; le téléphone, le parcours complet, les rencontres conditionnelles et les nouvelles intros V2 restent à adapter.
 
 ## Photographies et continuité
 
