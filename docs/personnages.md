@@ -6,7 +6,7 @@ Elias et les six personnages secondaires ci-dessous sont fictifs. Leurs profils 
 
 ## Elias, 21 ans — personnage principal
 
-**Étudiant en licence · Première manifestation.** La discipline de sa licence reste à définir.
+**Étudiant en licence d’histoire · Première manifestation.** Il travaille le week-end dans la restauration ; logement et emploi pèsent sur ses études. Décision d’écriture V1.
 
 Elias est politiquement sensible aux injustices, mais n’a jamais réellement participé à une mobilisation. Il porte un keffieh en signe de solidarité. Il rejoint le cortège pour défendre une cause qui lui tient à cœur, sans savoir ce qu’il va vivre.
 
@@ -24,9 +24,9 @@ Le keffieh est ici un signe de solidarité choisi par le personnage. Il ne sert 
 
 Gabriel, Salim et Noé sont introduits d’abord, dans des échanges brefs et situés : confrontation, non-violence et organisation. Ces mots sont des repères d’écriture ; ils ne doivent pas apparaître comme trois classes à sélectionner ou trois réponses forcément prévisibles.
 
-Louve, Irène et Amandla apparaissent ensuite à travers des événements précis : désaccord autour d’une action, première confrontation vécue, puis documentation et publication. L’ordre exact de leurs entrées reste à écrire. Ne pas transformer l’ouverture en six fiches de présentation successives.
+Louve, Irène et Amandla apparaissent ensuite à travers des événements précis : désaccord autour d’une action, première confrontation vécue, puis documentation et publication. La V1 fixe Irène dans la branche aider, puis Louve et Amandla au Jardin de Ville. Ne pas transformer l’ouverture en six fiches de présentation successives.
 
-Elias n’est pas un avatar vide ni une copie du joueur : il conserve un passé et des relations. Les liens préexistants avec les six secondaires restent à préciser avant de finaliser les dialogues.
+Elias n’est pas un avatar vide ni une copie du joueur : il conserve un passé et des relations. Noé est un ami depuis la première année sur le campus. Gabriel et Salim sont rencontrés au rassemblement. Irène est rencontrée dans la branche aider ; Louve et Amandla au regroupement. Le [récit V1](recit-v1.md) fixe les dialogues et les conditions.
 
 ## Gabriel, 22 ans — le révolté
 
@@ -92,15 +92,17 @@ Elias n’est pas un avatar vide ni une copie du joueur : il conserve un passé 
 
 Les portraits sont des références visuelles d’ambiance, pas des représentations définitives des personnages. Ils ne constituent pas un casting. Les noms, positions politiques et comportements des personnages fictifs ne sont pas attribués aux personnes photographiées. Les liens fournis sont conservés comme références ; leur identité, leur stabilité et leurs droits de réutilisation n’ont pas été vérifiés. Ne pas les traiter comme des médias validés pour le site.
 
-## Intégration dans la nouvelle trame
+## Intégration dans la trame V1
 
-1. **Rassemblement :** Elias découvre les slogans, les conversations et les revendications. Il rencontre progressivement Gabriel, Salim et Noé.
-2. **Rencontre :** une question sur sa présence lui permet d’exprimer une motivation ; le joueur ne sélectionne pas une idéologie.
-3. **Rupture :** un bruit de verre brisé, des personnes qui courent, une compréhension incomplète. Aucun responsable n’est désigné par simple suggestion du montage.
-4. **Premier choix d’action :** suivre le groupe, documenter l’incident ou tenter d’aider quelqu’un.
-5. **Conséquences :** relations différentes, informations vues ou manquées, personnes rencontrées et scènes accessibles.
-6. **Montage et publication :** le joueur décide ce qu’Elias partage, avec les limites de ce qu’il a effectivement filmé ou compris.
-7. **Bilan :** plusieurs trajectoires à partir d’un même début, sans résultat « bon manifestant » ou « mauvais manifestant ».
+Le [récit V1 verrouillé](recit-v1.md) contient l'ouverture écrite et les conditions de chaque rencontre. Les scènes, personnages et dialogues sont fictifs.
+
+1. Noé, Gabriel et Salim sont les seuls secondaires introduits avant la rupture.
+2. Après le bruit hors champ, Elias suit Noé, filme ou s'arrête pour aider.
+3. Irène est rencontrée uniquement dans la branche aider.
+4. Louve entre au Jardin de Ville avec Gabriel ; son premier échange dépend de la branche.
+5. Amandla demande ce qu'Elias peut attester avant tout choix de montage.
+6. Noé assure le lien affectif et les rendez-vous ; les fonctions de l'ancienne Inès sont redistribuées.
+7. Seule la branche filmer donne accès au fichier d'Elias et à ses deux montages.
 
 ## Dimensions narratives indépendantes
 
@@ -124,13 +126,15 @@ Les liens fournis servent à l’ambiance du rassemblement, de la rencontre et d
 
 **Information encore inconnue :** existe-t-il plusieurs photographies du même homme au keffieh, avec différentes positions et expressions ? Tant que ce point n’est pas renseigné, ne pas verrouiller des scènes qui exigent plusieurs vues de lui. Avec une seule photo exploitable, on peut envisager un portrait d’ancrage et des plans subjectifs ou des plans de lieux, mais ce choix de mise en scène reste à valider.
 
-## Prochaines décisions
+## Statut après la priorité 1
 
-- [x] Fixer Elias comme personnage principal masculin, 21 ans, étudiant en licence et novice en manifestation.
-- [x] Conserver six personnages secondaires et limiter l’ouverture à Gabriel, Salim et Noé.
-- [x] Construire la position d’Elias par ses décisions, sans étiquette politique initiale.
-- [ ] Préciser sa cause de départ, son quotidien et ses liens préexistants.
-- [ ] Détailler les conséquences du premier choix : suivre, filmer ou aider.
-- [ ] Écrire les entrées spécifiques de Louve, Irène et Amandla.
-- [ ] Inventorier les images du protagoniste et vérifier la continuité visuelle.
-- [ ] Adapter les messages, la carte et l’arbre Figma à cette distribution.
+- [x] Elias protagoniste, les six autres secondaires.
+- [x] Ouverture et liens préexistants écrits.
+- [x] Branches suivre, filmer et aider détaillées avec conditions.
+- [x] Entrées progressives de Louve, Irène et Amandla écrites.
+- [x] Dimensions indépendantes et règles d'interprétation définies.
+- [x] Inventaire des ressources accessibles terminé : aucune série du protagoniste explicitement identifiée et validée.
+- [ ] Obtenir un portrait d'Elias utilisable et ses droits, puis les vues nécessaires à la réalisation retenue.
+- [ ] Adapter les messages, la carte et l'arbre Figma à la V1.
+
+La V1 n'exige pas plusieurs vues de son visage : plans subjectifs, téléphone et lieux portent la continuité. L'inventaire n'est pas une identification de personnes par comparaison de visages.
