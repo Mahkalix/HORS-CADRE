@@ -6,6 +6,8 @@ Fiction documentaire interactive située à Grenoble. Le joueur incarne Elias, 2
 
 ## Documents de référence
 
+- [Priorité 1 — Récit V1 verrouillé](docs/recit-v1.md) · [version Notion](https://app.notion.com/p/3ff01efc2bc5816aab85daafb1a46751)
+
 - [Notion — Elias, personnages et trame complète](https://app.notion.com/p/3ff01efc2bc581b987c3e1056f5cfe65)
 
 - [Trame complète de A à Z et prochaines étapes de maquette](docs/trame-complete.md)
