@@ -2,17 +2,24 @@
 
 > Ce n’est pas du bruit. C’est une génération qui parle.
 
-Fiction documentaire interactive située à Grenoble : vivre une manifestation à hauteur d’étudiant, choisir où regarder, qui rejoindre et ce que l’on partage.
+Fiction documentaire interactive située à Grenoble. Le joueur incarne Elias, 21 ans, étudiant en licence, à sa première manifestation. Ses décisions construisent sa manière d’agir, ses relations et les informations qu’il découvre.
 
 ## Documents de référence
 
 - [Trame complète de A à Z et prochaines étapes de maquette](docs/trame-complete.md)
+- [Elias et les six personnages secondaires](docs/personnages.md)
 - [Figma — maquette et composants](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9)
 - [Prototype — loader et expérience](https://www.figma.com/proto/cuFSnI2KEsFVh3iOarpbw9?node-id=58-32596&starting-point-node-id=58%3A32596)
 
 La trame distingue le parcours actuellement maquetté, les intentions initiales et les décisions encore ouvertes. Une page Notion a été préparée, mais sa création est bloquée par la limite de blocs gratuits de l’espace ; aucun lien Notion n’est disponible pour l’instant.
 
-## Parcours actuel
+## Nouvelle direction narrative
+
+Un début commun avec Elias, Gabriel, Salim et Noé, puis un incident et trois actions : suivre le groupe, documenter ou tenter d’aider. Louve, Irène et Amandla arrivent progressivement. La solidarité, la confiance envers les institutions, le rapport à l’action directe et la fidélité aux proches restent des dimensions indépendantes, sans score « pacifiste / violent ».
+
+Le keffieh d’Elias exprime sa solidarité ; il ne définit pas son origine, sa religion ou ses convictions exactes. Les références visuelles ne constituent pas un casting.
+
+## Prototype actuel — à adapter
 
 Loader → accueil → prologue avec Inès → cortège → filmer ou rejoindre le groupe.
 
