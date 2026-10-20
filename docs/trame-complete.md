@@ -18,7 +18,7 @@
 ## 1. Le projet en une minute
 **Question centrale :** comment une colère étudiante réelle devient-elle du bruit médiatique avant même d’être entendue ?
 
-Le joueur ne dirige pas la manifestation. Il incarne un regard situé, avec un téléphone et une amie, Inès. Il ne peut pas simultanément écouter tout le monde, filmer toute la scène et rester avec son groupe. Ses décisions changent ce qu’il voit, les relations qu’il préserve et le récit qu’il peut ensuite transmettre.
+Le joueur ne dirige pas la manifestation. Il incarne un regard situé, avec un téléphone et un entourage étudiant. La nouvelle distribution comprend Gabriel, Salim, Noé, Louve, Irène et Amandla ; le prototype antérieur utilise encore Inès comme interlocutrice provisoire. Il ne peut pas simultanément écouter tout le monde, filmer toute la scène et rester avec son groupe. Ses décisions changent ce qu’il voit, les relations qu’il préserve et le récit qu’il peut ensuite transmettre.
 
 **Promesse :** une expérience immersive à choix cliquables, inspirée de la mise en scène des jeux narratifs et de leur arbre de ramifications, avec des vidéos réelles contextualisées à terme. La cible actuelle affichée sur l’accueil est d’environ dix minutes ; la durée devra être vérifiée avec les médias retenus.
 
@@ -36,14 +36,50 @@ Le joueur ne dirige pas la manifestation. Il incarne un regard situé, avec un t
 **À retenir :** l’ancien README et les documents historiques du dépôt décrivaient une autre version. Ils ne suffisent pas pour connaître l’état actuel de la maquette.
 
 ## 3. Les personnages et le point de vue
-### Le personnage joueur
-Un ou une étudiante, sans identité imposée pour l’instant. Sa situation personnelle doit donner du poids à sa présence dans la rue. Le joueur choisit des actions observables : rester, regarder, filmer, ouvrir un message, rejoindre Inès, partager un extrait ou un plan complet.
 
-### Inès
-Amie et repère affectif du parcours. Elle rejoint le cortège, envoie des messages, partage un rendez-vous et permet de ressentir la séparation du groupe autrement que comme une information sur une carte. Inès et ses dialogues sont fictifs.
+**Nouvelle distribution de référence : Gabriel, Salim, Noé, Louve, Irène et Amandla.**
 
-### Les autres voix
-Étudiants, manifestants, témoins et paroles institutionnelles peuvent faire entendre plusieurs raisons de la mobilisation : logement, alimentation, coût des études, travail en parallèle, avenir climatique, discriminations, sélection et représentation politique. Leur sélection et leur écriture restent à faire. Aucune parole de démonstration ne doit être présentée comme un témoignage authentique.
+[Fiches complètes des personnages](personnages.md)
+
+### Gabriel, 22 ans — le révolté
+Étudiant en histoire, issu d’une famille de classe moyenne. Il a longtemps cru au dialogue, mais considère aujourd’hui que les manifestations pacifiques ne suffisent plus. Il participe parfois aux dégradations.
+
+**Conviction :** « Quand personne ne nous écoute, comment se faire entendre ? »
+
+### Salim, 21 ans — le pacifiste
+Étudiant en droit, ayant grandi dans un quartier populaire. Il connaît les discriminations et les tensions avec les institutions, mais refuse la violence. Sa non-violence est un choix politique assumé.
+
+**Conviction :** « Notre colère est légitime. Ce qu’on en fait compte aussi. »
+
+### Noé, 23 ans — l’organisateur
+Étudiant en sciences politiques, engagé dans un syndicat étudiant. Il organise les assemblées générales et les cortèges. Il sait que négocier peut apporter des victoires, mais aussi provoquer des compromis difficiles.
+
+**Conviction :** « Une mobilisation sans organisation risque de s’épuiser. »
+
+### Louve, 22 ans — la révoltée
+Étudiante en sociologie, issue d’un milieu favorisé. Elle s’est radicalisée politiquement au fil de ses études. Elle remet en question sa propre position sociale et accepte certaines formes d’action directe.
+
+**Conviction :** « Être neutre face à une injustice, c’est déjà faire un choix. »
+
+### Irène, 21 ans — la pacifiste
+Étudiante en psychologie, elle manifeste pour la première fois. Elle veut défendre ses droits, mais redoute les affrontements. Elle découvre progressivement que rester pacifique ne suffit pas toujours à éviter la confrontation.
+
+**Conviction :** « On peut être en colère sans vouloir blesser quelqu’un. »
+
+### Amandla, 23 ans — la militante
+Étudiante en communication, engagée dans un collectif étudiant. Elle documente les manifestations et fait circuler les témoignages. Elle se demande parfois si filmer une injustice aide réellement les personnes concernées.
+
+**Conviction :** « Ce qu’on ne montre pas risque d’être oublié. »
+
+### Point de vue et adaptation du prototype
+Le personnage jouable et les relations entre les six personnes restent à choisir. Aucun de ces rôles n’est automatiquement déclaré jouable.
+
+**Inès est l’interlocutrice provisoire de la maquette antérieure.** Les sections suivantes décrivent encore les écrans existants avec ce prénom afin de rester fidèles au prototype. Pour la prochaine version, répartir ses messages, son rôle affectif et le rendez-vous entre les six personnages ; ne pas ajouter par défaut un septième personnage.
+
+**Portraits :** références visuelles d’ambiance, non définitives. Ils n’attribuent pas les convictions ou actes fictifs aux personnes photographiées. Les liens sont conservés dans les fiches ; droits et identités n’ont pas été vérifiés.
+
+### Intégration proposée
+Noé peut porter l’organisation et les rendez-vous ; Amandla, la documentation et le montage ; Gabriel et Louve, deux trajectoires distinctes de rupture ; Salim et Irène, deux rapports différents à la non-violence. Cette répartition est une proposition de scénario à valider, pas une description des écrans déjà réalisés.
 
 ## 4. La trame de A à Z
 ### A — Le seuil : loader puis accueil
