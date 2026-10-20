@@ -1,8 +1,32 @@
 # HORS CADRE — Personnages
 
-Les six personnages ci-dessous sont fictifs. Leurs profils et leurs convictions sont fournis par l’auteur du projet. Les fonctions narratives proposées pour la suite sont des pistes de travail, pas des scènes déjà intégrées à Figma.
+Elias et les six personnages secondaires ci-dessous sont fictifs. Leurs profils et leurs convictions sont fournis par l’auteur du projet. Les fonctions narratives proposées pour la suite sont des pistes de travail, pas des scènes déjà intégrées à Figma.
 
 [Trame complète](trame-complete.md) · [Maquette Figma](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9)
+
+## Elias, 21 ans — personnage principal
+
+**Étudiant en licence · Première manifestation.** La discipline de sa licence reste à définir.
+
+Elias est politiquement sensible aux injustices, mais n’a jamais réellement participé à une mobilisation. Il porte un keffieh en signe de solidarité. Il rejoint le cortège pour défendre une cause qui lui tient à cœur, sans savoir ce qu’il va vivre.
+
+Son histoire et sa présence dans la rue existent avant les décisions du joueur. En revanche, sa façon de manifester, sa réaction à un incident et son rapport au fait de filmer se construisent au cours du récit. Il n’est pas présenté d’emblée comme pacifiste, radical ou militant.
+
+Le keffieh est ici un signe de solidarité choisi par le personnage. Il ne sert pas à déduire son origine, sa religion ou ses convictions exactes. Les choix du joueur ne modifient pas rétroactivement ces caractéristiques.
+
+**Phrase d’introduction proposée :** « Je pensais simplement venir manifester. »
+
+[Référence visuelle fournie — keffieh, ambiance uniquement](https://images.openai.com/static-rsc-4/_aAJgwnubpItdRSGkswi8Rl-Vq-fbpplRWQuXM29NIbSneqozeUrxGz6KamnfpFzIQMHVvIugZ3aJbZpFSzZVFyhiHmaP3LzvrKijTiHwVtGIobOLJMgmR2I9k6OBJDDh9Ado5PoIWyQldC0EFmmV9iMlSp-DaAF-PdWJhOgY2o?purpose=inline)
+
+## Distribution et rythme des rencontres
+
+**Un personnage principal jouable : Elias. Six personnages secondaires : Gabriel, Salim, Noé, Louve, Irène et Amandla.**
+
+Gabriel, Salim et Noé sont introduits d’abord, dans des échanges brefs et situés : confrontation, non-violence et organisation. Ces mots sont des repères d’écriture ; ils ne doivent pas apparaître comme trois classes à sélectionner ou trois réponses forcément prévisibles.
+
+Louve, Irène et Amandla apparaissent ensuite à travers des événements précis : désaccord autour d’une action, première confrontation vécue, puis documentation et publication. L’ordre exact de leurs entrées reste à écrire. Ne pas transformer l’ouverture en six fiches de présentation successives.
+
+Elias n’est pas un avatar vide ni une copie du joueur : il conserve un passé et des relations. Les liens préexistants avec les six secondaires restent à préciser avant de finaliser les dialogues.
 
 ## Gabriel, 22 ans — le révolté
 
@@ -68,28 +92,45 @@ Les six personnages ci-dessous sont fictifs. Leurs profils et leurs convictions 
 
 Les portraits sont des références visuelles d’ambiance, pas des représentations définitives des personnages. Ils ne constituent pas un casting. Les noms, positions politiques et comportements des personnages fictifs ne sont pas attribués aux personnes photographiées. Les liens fournis sont conservés comme références ; leur identité, leur stabilité et leurs droits de réutilisation n’ont pas été vérifiés. Ne pas les traiter comme des médias validés pour le site.
 
-## Intégration proposée dans la trame
+## Intégration dans la nouvelle trame
 
-1. **Avant le cortège :** présenter les six personnes par des échanges courts et des motivations concrètes. Ne pas les réduire à des étiquettes dans l’interface.
-2. **Dans le cortège :** confronter les visions de Gabriel et Louve à celles de Salim et Irène ; Noé essaie de maintenir une organisation commune ; Amandla documente les paroles.
-3. **Au basculement :** donner à chacun une réaction cohérente avec sa situation, sans imposer que toutes les convictions aboutissent à un comportement prévisible.
-4. **Au téléphone et sur la carte :** préciser qui écrit, qui partage une position, qui manque à l’appel et pourquoi cette personne compte pour le joueur.
-5. **Au moment de publier :** Amandla porte le débat sur le cadrage, les autres peuvent faire entendre les effets d’une publication sur les personnes filmées.
-6. **À la fin :** restituer plusieurs voix, y compris celles qui n’ont pas été suivies. Le bilan dépendra des rencontres et des actions, pas d’un score de bonne conduite.
+1. **Rassemblement :** Elias découvre les slogans, les conversations et les revendications. Il rencontre progressivement Gabriel, Salim et Noé.
+2. **Rencontre :** une question sur sa présence lui permet d’exprimer une motivation ; le joueur ne sélectionne pas une idéologie.
+3. **Rupture :** un bruit de verre brisé, des personnes qui courent, une compréhension incomplète. Aucun responsable n’est désigné par simple suggestion du montage.
+4. **Premier choix d’action :** suivre le groupe, documenter l’incident ou tenter d’aider quelqu’un.
+5. **Conséquences :** relations différentes, informations vues ou manquées, personnes rencontrées et scènes accessibles.
+6. **Montage et publication :** le joueur décide ce qu’Elias partage, avec les limites de ce qu’il a effectivement filmé ou compris.
+7. **Bilan :** plusieurs trajectoires à partir d’un même début, sans résultat « bon manifestant » ou « mauvais manifestant ».
 
-Ces étapes sont des propositions à valider. Le choix d’un personnage jouable unique, de plusieurs points de vue ou d’un joueur extérieur au groupe n’est pas encore arrêté.
+## Dimensions narratives indépendantes
+
+Ne pas calculer un score unique « pacifiste / violent ». Suivre séparément :
+- la solidarité ;
+- la confiance envers les institutions ;
+- le rapport à l’action directe ;
+- la fidélité à ses proches.
+
+Ces dimensions peuvent se contredire. Elias peut être solidaire, méfiant envers les institutions et refuser la violence. Elles servent d’abord à écrire et vérifier les réactions ; aucun écran de statistiques ou calcul numérique n’est imposé à ce stade. Si un système interne est développé, conserver aussi des faits concrets : qui a été aidé, ce qui a été filmé, qui a reçu un message et quelles informations ont été obtenues.
 
 ## Écart avec la maquette actuelle
 
-La maquette et son ancien arbre utilisent encore **Inès** comme interlocutrice provisoire. Cette nouvelle distribution contient six personnages ; Inès n’est pas ajoutée comme septième personnage de référence. Il reste à répartir son rôle affectif, ses messages et son rendez-vous entre les nouveaux personnages avant de renommer les écrans.
+La maquette et son ancien arbre utilisent encore **Inès** comme interlocutrice provisoire. Elle ne fait pas partie de la nouvelle distribution. Répartir ses fonctions affectives, ses messages et le rendez-vous entre les six personnages secondaires selon leurs relations avec Elias ; ne pas remplacer son prénom partout par un seul autre prénom sans réécrire la scène.
 
-Les mentions d’Inès dans la description du prototype désignent donc un état antérieur, pas la distribution à retenir pour la prochaine version.
+Le choix « aider quelqu’un » et les conséquences propres à cette branche ne sont pas encore maquettés. Le personnage principal n’est pas encore décliné dans les écrans Figma.
+
+## Photographies et continuité
+
+Les liens fournis servent à l’ambiance du rassemblement, de la rencontre et de la rupture ; ils ne prouvent pas que les images représentent un même lieu, une même journée ou Elias. Ne pas présenter des personnes différentes comme un seul protagoniste.
+
+**Information encore inconnue :** existe-t-il plusieurs photographies du même homme au keffieh, avec différentes positions et expressions ? Tant que ce point n’est pas renseigné, ne pas verrouiller des scènes qui exigent plusieurs vues de lui. Avec une seule photo exploitable, on peut envisager un portrait d’ancrage et des plans subjectifs ou des plans de lieux, mais ce choix de mise en scène reste à valider.
 
 ## Prochaines décisions
 
-- [ ] Choisir le point de vue jouable.
-- [ ] Définir les liens préexistants entre les six personnages et le joueur.
-- [ ] Répartir les fonctions de l’ancienne Inès : amie proche, contact de groupe, personne recherchée, position partagée.
-- [ ] Écrire une première rencontre, une contradiction et une conséquence pour chaque personnage.
-- [ ] Distinguer les scènes de Gabriel et Louve, puis celles de Salim et Irène.
-- [ ] Adapter le téléphone, les choix et l’arbre de parcours à cette distribution.
+- [x] Fixer Elias comme personnage principal masculin, 21 ans, étudiant en licence et novice en manifestation.
+- [x] Conserver six personnages secondaires et limiter l’ouverture à Gabriel, Salim et Noé.
+- [x] Construire la position d’Elias par ses décisions, sans étiquette politique initiale.
+- [ ] Préciser sa cause de départ, son quotidien et ses liens préexistants.
+- [ ] Détailler les conséquences du premier choix : suivre, filmer ou aider.
+- [ ] Écrire les entrées spécifiques de Louve, Irène et Amandla.
+- [ ] Inventorier les images du protagoniste et vérifier la continuité visuelle.
+- [ ] Adapter les messages, la carte et l’arbre Figma à cette distribution.
