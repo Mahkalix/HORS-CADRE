@@ -4,7 +4,8 @@
 > HORS CADRE est une fiction documentaire interactive située à Grenoble : vivre une manifestation à hauteur d’étudiant, choisir où regarder, qui rejoindre et ce que l’on partage.
 > **Document de travail pour faire avancer la maquette.** Le scénario décrit ci-dessous sépare le prototype existant des développements encore proposés.
 
-## Les trois points d’entrée
+## Les points d’entrée du projet
+- [Notion — carnet de projet, personnages et trame](https://app.notion.com/p/3ff01efc2bc581b987c3e1056f5cfe65)
 - [Maquette Figma — écrans et composants](https://www.figma.com/design/cuFSnI2KEsFVh3iOarpbw9)
 - [Prototype — du loader à l’expérience](https://www.figma.com/proto/cuFSnI2KEsFVh3iOarpbw9?node-id=58-32596&starting-point-node-id=58%3A32596)
 - [GitHub — Mahkalix / HORS-CADRE](https://github.com/Mahkalix/HORS-CADRE)
