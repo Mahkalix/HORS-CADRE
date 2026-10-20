@@ -6,6 +6,9 @@ Fiction documentaire interactive située à Grenoble. Le joueur incarne Elias, 2
 
 ## Documents de référence
 
+- [Récit V2 complet — référence actuelle](docs/scenario-v2.md)
+- [Arbre narratif Miro](https://miro.com/app/board/uXjVEX1iTNU=/)
+
 - [Priorité 1 — Récit V1 verrouillé](docs/recit-v1.md) · [version Notion](https://app.notion.com/p/3ff01efc2bc5816aab85daafb1a46751)
 
 - [Notion — Elias, personnages et trame complète](https://app.notion.com/p/3ff01efc2bc581b987c3e1056f5cfe65)
@@ -19,7 +22,7 @@ La trame distingue le parcours actuellement maquetté, les intentions initiales 
 
 ## Nouvelle direction narrative
 
-Un début commun avec Elias, Gabriel, Salim et Noé, puis un incident et trois actions : suivre le groupe, documenter ou tenter d’aider. Louve, Irène et Amandla arrivent progressivement. La solidarité, la confiance envers les institutions, le rapport à l’action directe et la fidélité aux proches restent des dimensions indépendantes, sans score « pacifiste / violent ».
+L’introduction propose tram, trottinette électrique ou marche jusqu’à Victor-Hugo. Elias peut chercher Noé ou écouter seul, puis choisir ses conversations. La rupture ouvre trois actions : suivre, filmer ou aider. Gabriel, Salim, Louve, Irène et Amandla sont rencontrés selon le parcours ; Noé reste l’ami et le contact stable. Les quatre dimensions narratives sont indépendantes, sans score « pacifiste / violent ».
 
 Le keffieh d’Elias exprime sa solidarité ; il ne définit pas son origine, sa religion ou ses convictions exactes. Les références visuelles ne constituent pas un casting.
 
