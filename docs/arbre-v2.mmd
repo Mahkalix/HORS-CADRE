@@ -1,0 +1,65 @@
+flowchart LR
+  E["ELIAS · 21 ans<br>Première manifestation"] --> M{"INTRO · Comment y aller ?"}
+  M --> T["TRAM<br>Ville à la vitre · message de Noé"]
+  M --> X["TROTTINETTE<br>Trajet · téléphone rangé<br>Arrêt avant interaction"]
+  M --> P["À PIED<br>Les slogans se rapprochent"]
+  T --> V["VICTOR-HUGO<br>Premier lieu · même journée"]
+  X --> V
+  P --> V
+  V --> A{"Vers qui se tourner ?"}
+  A -->|"Chercher son ami"| N["NOÉ<br>Accueil et point de rendez-vous"]
+  A -->|"Écouter le cortège"| U["VOIX DE LA RUE<br>Sans rencontre imposée"]
+  N --> O{"À qui parler ?"}
+  O --> G["GABRIEL · optionnel<br>Pourquoi le dialogue ne suffit plus ?"]
+  O --> S["SALIM · optionnel<br>La non-violence est un choix"]
+  O --> K["Rester avec Noé<br>Ne pas rencontrer les autres"]
+  G --> Q{"MOTIVATION<br>Pourquoi es-tu venu ?"}
+  S --> Q
+  K --> Q
+  U --> Q
+  Q --> Q1["J’arrive plus à tout faire tenir"]
+  Q --> Q2["Arrêter de regarder de loin"]
+  Q --> Q3["Je suis venu avec Noé"]
+  Q1 --> R["GRENETTE · RUPTURE<br>Verre brisé hors champ<br>Origine inconnue"]
+  Q2 --> R
+  Q3 --> R
+  R --> D{"Que fait Elias ?"}
+  D -->|"SUIVRE"| F["Suivre Noé ou le groupe<br>Aucun fichier propre"]
+  D -->|"FILMER"| C["Enregistrer après le bruit<br>Fichier d'Elias · début manquant"]
+  D -->|"AIDER"| H["SALIM et IRÈNE<br>Demander son accord · rester avec elle<br>Aucun fichier propre"]
+  F --> J["JARDIN DE VILLE<br>Noé · regroupement<br>Les faits de chaque branche sont conservés"]
+  C --> B{"MESSAGE · si séparé de Noé"}
+  H --> B
+  B -->|"J'arrive : Noé attend à l'entrée"| J
+  B -->|"Restez ensemble : point collectif"| J
+  B -->|"Sans réponse : point collectif"| J
+  J --> Z{"CONDITION<br>Branche déjà vécue<br>Pas un nouveau choix"}
+  Z -->|"SUIVRE"| L{"Écouter le désaccord ?"}
+  L -->|"Oui"| LG["LOUVE et GABRIEL · optionnels<br>Action directe, privilège et limites"]
+  L -->|"Non : rester avec Noé"| EL["LE LIEN<br>Présence avec les proches<br>Une partie de la scène a échappé"]
+  LG --> EL
+  Z -->|"AIDER"| HI["IRÈNE décide de parler ou non<br>Son témoignage ne t'appartient pas"]
+  HI --> EP["LA PRÉSENCE<br>Une demande entendue<br>Pas de vidéo inventée"]
+  Z -->|"FILMER seulement"| AD{"Revoir les images avec qui ?"}
+  AD -->|"Demander un regard"| AM["AMANDLA · optionnelle<br>Filmer aide-t-il les personnes filmées ?"]
+  AD -->|"Revoir seul"| SO["Visionnage seul<br>Mêmes métadonnées et limites"]
+  AM --> CMP["COMPARER<br>Extrait 00:12 / entier 02:34<br>Les deux commencent après le bruit"]
+  SO --> CMP
+  CMP --> PB{"Que partager ?"}
+  PB -->|"Extrait"| EF["LE FRAGMENT<br>La reprise perd la légende"]
+  PB -->|"Fichier entier"| EC["LE CONTEXTE<br>Plus de continuité<br>Origine toujours inconnue"]
+  EL --> REV["LES REVENDICATIONS<br>Qu'avez-vous réellement entendu ?"]
+  EP --> REV
+  EF --> REV
+  EC --> REV
+  REV --> END["BILAN PERSONNEL<br>Rencontres vécues / non explorées<br>Rejouer sans score moral"]
+  classDef hero fill:#29231F,color:#DEDCD1,stroke:#29231F;
+  classDef choice fill:#4760FF,color:#FFFFFF,stroke:#4760FF;
+  classDef person fill:#DEDCD1,color:#29231F,stroke:#8E8170;
+  classDef finish fill:#D0C8B8,color:#29231F,stroke:#29231F;
+  class E,R,REV,END hero;
+  class M,A,O,Q,D,B,L,AD,PB choice;
+  classDef guard fill:#D0C8B8,color:#29231F,stroke:#8E8170,stroke-dasharray:4 4;
+  class Z guard;
+  class N,G,S,H,LG,HI,AM person;
+  class EL,EP,EF,EC finish;
